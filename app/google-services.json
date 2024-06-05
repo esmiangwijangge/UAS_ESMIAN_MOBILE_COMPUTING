@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768790861727",
+    "firebase_url": "https://project-esmian-default-rtdb.firebaseio.com",
+    "project_id": "project-esmian",
+    "storage_bucket": "project-esmian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768790861727:android:bf14db5d68be4559db0faa",
+        "android_client_info": {
+          "package_name": "com.example.projectesmian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UbVLNHP2paGpoB8X_dMBnp6vobiaYqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
